@@ -1,5 +1,5 @@
 # Sentiment Analysis Project
-#Author-Utkarsh Saini
+
 This project provides a multi-functional sentiment analysis tool that includes:
 
 1. **IMDB Reviews Sentiment Analysis**: Analyzing the sentiment of a dataset of movie reviews.
